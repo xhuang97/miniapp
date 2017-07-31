@@ -1,39 +1,31 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>:</strong>
-  <%= @input._id %>
-</p>
+<table class="table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Datatime</th>
+      <th>Type</th>
+      <th>Sessionid</th>
+      <th>Sessiondesc</th>
+      <th>Sessioncond</th>
+      <th>Isundo</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
 
-<p>
-  <strong>Datatime:</strong>
-  <%= @input.dataTime %>
-</p>
-
-<p>
-  <strong>Type:</strong>
-  <%= @input.type %>
-</p>
-
-<p>
-  <strong>Sessionid:</strong>
-  <%= @input.sessionId %>
-</p>
-
-<p>
-  <strong>Sessiondesc:</strong>
-  <%= @input.sessionDesc %>
-</p>
-
-<p>
-  <strong>Sessioncond:</strong>
-  <%= @input.sessionCond %>
-</p>
-
-<p>
-  <strong>Isundo:</strong>
-  <%= @input.isUndo %>
-</p>
+  <tbody>
+    <tr>
+      <td><%= @input._id %></td>
+      <td><%= @input.dataTime %></td>
+      <td><%= @input.type %></td>
+      <td><%= @input.sessionId %></td>
+      <td><%= @input.sessionDesc %></td>
+      <td><%= @input.sessionCond %></td>
+      <td><%= @input.isUndo %></td>
+    </tr>
+  </tbody>
+</table>
 
 <%= link_to 'Edit', edit_input_path(@input) %> |
 <%= link_to 'Back', inputs_path %>

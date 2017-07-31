@@ -1,6 +1,6 @@
 <h1>Listing inputs</h1>
 
-<table>
+<table class="table">
   <thead>
     <tr>
       <th></th>
@@ -24,9 +24,9 @@
         <td><%= input.sessionDesc %></td>
         <td><%= input.sessionCond %></td>
         <td><%= input.isUndo %></td>
-        <td><%= link_to 'Show', input %></td>
-        <td><%= link_to 'Edit', edit_input_path(input) %></td>
-        <td><%= link_to 'Destroy', input, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to 'Show', input, class: 'btn btn-primary btn-xs' %></td>
+        <td><%= link_to 'Edit', edit_input_path(input), class: 'btn btn-info btn-xs' %></td>
+        <td><%= link_to 'Destroy', input, method: :delete, data: { confirm: 'Are you sure?' }, class: 'btn btn-danger btn-xs' %></td>
       </tr>
     <% end %>
   </tbody>
@@ -34,4 +34,4 @@
 
 <br>
 
-<%= link_to 'New Input', new_input_path %>
+<%= link_to 'New Input', new_input_path, class: 'btn btn-success' %>

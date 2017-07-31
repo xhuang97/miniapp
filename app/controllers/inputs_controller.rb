@@ -5,6 +5,7 @@ class InputsController < ApplicationController
   # GET /inputs.json
   def index
     @inputs = Input.all
+    @courses = Course.all
   end
 
   # GET /inputs/1
