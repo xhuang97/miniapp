@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>:</strong>
+  <%= @input._id %>
+</p>
+
+<p>
+  <strong>Datatime:</strong>
+  <%= @input.dataTime %>
+</p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @input.type %>
+</p>
+
+<p>
+  <strong>Sessionid:</strong>
+  <%= @input.sessionId %>
+</p>
+
+<p>
+  <strong>Sessiondesc:</strong>
+  <%= @input.sessionDesc %>
+</p>
+
+<p>
+  <strong>Sessioncond:</strong>
+  <%= @input.sessionCond %>
+</p>
+
+<p>
+  <strong>Isundo:</strong>
+  <%= @input.isUndo %>
+</p>
+
+<%= link_to 'Edit', edit_input_path(@input) %> |
+<%= link_to 'Back', inputs_path %>

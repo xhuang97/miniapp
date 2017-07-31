@@ -1,0 +1,45 @@
+<%= form_for(@input) do |f| %>
+  <% if @input.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@input.errors.count, "error") %> prohibited this input from being saved:</h2>
+
+      <ul>
+      <% @input.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :_id %><br>
+    <%= f.text_field :_id %>
+  </div>
+  <div class="field">
+    <%= f.label :dataTime %><br>
+    <%= f.datetime_select :dataTime %>
+  </div>
+  <div class="field">
+    <%= f.label :type %><br>
+    <%= f.text_field :type %>
+  </div>
+  <div class="field">
+    <%= f.label :sessionId %><br>
+    <%= f.text_field :sessionId %>
+  </div>
+  <div class="field">
+    <%= f.label :sessionDesc %><br>
+    <%= f.text_field :sessionDesc %>
+  </div>
+  <div class="field">
+    <%= f.label :sessionCond %><br>
+    <%= f.number_field :sessionCond %>
+  </div>
+  <div class="field">
+    <%= f.label :isUndo %><br>
+    <%= f.check_box :isUndo %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
