@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20170731170456) do
 
   create_table "inputs", id: false, force: true do |t|
     t.string   "_id"
-    t.datetime "dateTime"
+    t.string   "dateTime"
     t.string   "type"
     t.string   "sessionId"
     t.string   "sessionDesc"

@@ -9,7 +9,8 @@ class Input < ActiveRecord::Base
   scope :for_date,      ->(date) { where(get_date == date) }
 
   # validations
-  validates :_id, presence: true,  uniqueness: { case_sensitive: true }
+  validates :_id, presence: true
+  # , uniqueness: { case_sensitive: true }
 
   def get_date
     @datetime = self.dateTime

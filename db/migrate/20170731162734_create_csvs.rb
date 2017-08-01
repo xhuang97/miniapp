@@ -2,7 +2,7 @@ class CreateCsvs < ActiveRecord::Migration
   def change
     create_table :csvs, id: false, primary_key: :_id do |t|
       t.string :_id, NULL: false
-      t.datetime :dateTime
+      t.string :dateTime
       t.string :type
       t.string :sessionId
       t.string :sessionDesc
