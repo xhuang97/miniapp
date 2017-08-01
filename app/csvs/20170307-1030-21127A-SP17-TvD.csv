@@ -1,0 +1,573 @@
+_id;dateTime;type;sessionId;sessionDesc;sessionCond;isUndo
+xZz5eMFgF6HuTh7A2;1488900640505;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+P8fFjyoxTAAAci9m6;1488900643634;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pQCYNptwyRfjeF7qf;1488900643866;pause begin;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+icJZx5ihMfaaHJgZK;1488900647681;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DBvz3ecJTMs6g4d3u;1488900648373;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+X4PYELnNFusadpmwD;1488900651592;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+7fFSsWP7MvFP8pzhg;1488900653232;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6b3tmpvRjRnmtHM9x;1488900654211;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ypsZToFqHcdGGA9MA;1488900657300;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+zZm5NnowJYzPQQqz7;1488900657801;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Yuv6sKtXuZR9rPogk;1488900658487;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+C63ZR36Eqd7T8KtLE;1488900659136;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ruCpPWGXw7kFyc79s;1488900660759;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+iS55oxE5Zk6KgXfWu;1488900661275;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vkkXnaXcF9kxu6cHg;1488900662008;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YJPWhD4jRvryNoYxS;1488900662524;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+mBJCW5dyphFTYGpD4;1488900663177;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FEaAwQsmyRP2RkD4v;1488900663661;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bnvauZ6WDso5o2SCD;1488900664546;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+7DWmo3FmxsH9adzaX;1488900665164;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ppnaCsyAfimhe5oaD;1488900665849;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WTnaRfArTXBcSbcbx;1488900787303;pause end;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BiyPjKDbSy46q5qpE;1488900787988;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+mE2jyrXk7MXhTwLER;1488900810897;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+H6c8tfPo4HvZtY43T;1488900815324;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dDPCZG3giHnSJXt6j;1488900865888;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jJHyGar5RcZ3HvQpH;1488900866309;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XQjCgAxZqu94dCcvQ;1488900866520;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5XGMicFdmm7nZvdFr;1488900866636;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+GWLLmf7XsLKZ2BCGX;1488900868917;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dNxuhLEayXepZAz9r;1488900871242;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+KLvaoSnwNXmycMjQn;1488900871395;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wZLxyW9bgdRwBXQf8;1488900873477;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WEoz3CAZi8FSBkmJG;1488900873551;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ym9W58pMoYJoHNYWa;1488900874077;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ncxrrw64R8kZwJoHb;1488900874123;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+A4Sm6A5Tx4h7fsLzc;1488900881672;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rkBg6MWdNC8P7vq2M;1488900891403;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6skbAGGWQRiAA5t5p;1488900891842;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+GXvhEBZwYbsMRm3hS;1488900893728;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sN4MEYWrnMQuS9rrx;1488900893768;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Hg9HAsY6kzrbikQ8x;1488900894107;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yk2LsNGQeqCTfxFFm;1488900894592;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+QqWamegfrFmkDR8sS;1488900898032;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AZwEaGcP7Ac5a2jdo;1488900898548;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+PPfkeuQi4gB6atcHf;1488900928642;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RDb8SM9N7npGMeYzX;1488900929126;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FJKL4TgcpHZgBDuQb;1488900948155;Students present;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+h76v4kiagBXZXJ5ss;1488900953591;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+F5h5Qm5Eu9bsG3wrJ;1488900954075;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+opphzbBAvko6NQCGk;1488900967777;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+b8phjFXK4apxCEits;1488900968615;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5Q8AJgXNHezmHsEB4;1488900970695;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fvsm3Jfqx2HwuvPzy;1488900972520;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+REbPwXyMTMnFKrZs5;1488900973721;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xjbgKZ8eucYwZ9ej8;1488900973748;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nPDpHthLTZLpWuR5J;1488900981392;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SxFsSeneANFKdvHG6;1488900984135;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fst3XnDKTnuDzHuEF;1488900999557;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JmSpcAX8mqZEf3t3f;1488900999657;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dMbboaXM4dzvXdKEk;1488901000805;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jSL58TWKW7PZbKLRA;1488901001537;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+djDmcDrDrqjrF2wsX;1488901003106;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AFRPzXgvkucJYMLEA;1488901033277;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Czx88TqAZSBrvenkR;1488901038741;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WG7qXEabiDXJY68AC;1488901039382;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Zh9QBqfYQGt6xhpEE;1488901040211;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+p4rNYpTjcnz5zGHh6;1488901040590;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+MyuvQwfaB7Lwu2RLL;1488901041544;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6rQL5v9LfvBgzcapm;1488901050854;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+htJC4WRxoH6T4QJtL;1488901051687;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yimAtiEh2TjJm9TPo;1488901053057;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+H23tho7YnzwTHHq8i;1488901053642;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+t84J48hzjCasQB9Ng;1488901053826;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+cEt9G2NmyB3CkL6Mf;1488901057061;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+z7uXJ5ozz2mQMqozs;1488901059893;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+tXGSRbr7qFiXDMi3E;1488901059953;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kJ3qRyoBNs9MwPpSC;1488901061896;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RAdJsTwuaPf7Rud75;1488901062108;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+oGopEXz3L8qYBvPxy;1488901062530;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+M3t4iZoSJAKXyn89D;1488901062909;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+zKAniFR84SqDXGFCf;1488901062930;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4j6w8cg9GjNbF9yFF;1488901068501;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+NhLfFA3Y8kWxgy6Zi;1488901069903;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JpouiqLb2rDxGfNND;1488901072343;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+eAGXHhF27iKt2q7Ax;1488901072394;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+j9TwFtd6WYYmNCC58;1488901080287;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+KFRZHnRujce6mhEoC;1488901081273;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+iYZDH3KNDDgYpbJB9;1488901084605;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vckPKdwKnPi5XGL2t;1488901100509;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;true
+Xm5kzZp9wgaPoWWZr;1488901132404;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4WBe5N6svexkmmwxi;1488901133151;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6G7mHRYTu47PAfwWT;1488901134506;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yrKbtzZxgBs9TerMe;1488901135640;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+cwChZcvAdD2PERANj;1488901135667;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+tR9eviFprY6iAJArR;1488901143250;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JF4ztXzJQENvLd8jm;1488901143323;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2ycNNH9jQSiYjYQAK;1488901144334;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rKkyvej9hALJSG2z7;1488901145952;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JLh85ruFw3xFjC5SZ;1488901145974;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+KeZ2cynMTfqNpM9cX;1488901161498;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8KnjtGbRYYFaLjabY;1488901164605;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+eeZSbm3sS5aNmxqFH;1488901165304;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+PdQJ4kWxirx9Eu7mQ;1488901167908;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+47aKtQaegChN8kpav;1488901194527;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4aTNfhRLkQMvDpnba;1488901196666;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8aQZAfwYFiasg3e6y;1488901197160;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+prskm9h5zMG8Nr9Ga;1488901200018;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+d6SnunKRDLvfQ9RzQ;1488901203092;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kYqpDmYYZAKhcFyeb;1488901203145;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5GF54pWevyY3Xv5LP;1488901207976;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+z2qJs5H9JHN3XNg67;1488901208050;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xsL3twcJMzKWsr438;1488901245757;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qBRu7KoqMETfo3k6b;1488901246021;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wqenp2Jmvhr3uHMY7;1488901246944;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WovWG3g5dyS6FDxn4;1488901247545;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EWCef6scCj4R3FcTa;1488901249824;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WNig6gm5oKPFt7GTe;1488901249892;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FYFFu3jNv6eu3Xh4q;1488901261228;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AmKgPvooL2SBbHrF8;1488901261269;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+f9aqtoshrkpF3v2t8;1488901265544;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wrrTmDnrrgwLDTgGi;1488901265587;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+d2XoRwwpNqapZBTQE;1488901268808;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FdrJ5nEjeXS8ERhbh;1488901268859;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CMhEpvtbmNJxm7nkX;1488901278149;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qqjRRnzGBZs9czxcm;1488901279150;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Az8QyucsRscgvDXiW;1488901279920;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+zaTwBDRKsiczqzsJ3;1488901281754;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+THqyFEqyBg9gDP9Xw;1488901284841;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8QSsRP8p65P6rPjgw;1488901285172;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WEGjR8zxSvAd25bdd;1488901288777;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+scMHXe7yM37xz972N;1488901288898;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Q76cXPTooW8kcqPgE;1488901289615;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Nw7nh6S9fjru5zFYA;1488901291577;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+w9jteizCjr8nJgaRX;1488901308666;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HQHajfueAcCH4ghxP;1488901308691;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EnfESFk9YSAZ2CmiM;1488901310583;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fmyAC4QWt8EqRR6iL;1488901310629;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RhrdmP6ywpHt5cGBu;1488901310953;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WFo58YnApqHHY68kC;1488901310980;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LmnqEERZd4WSJJSdM;1488901314704;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RntmJrbrekSqL6fmh;1488901314738;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pBQpLw88wdx3pmp6N;1488901355920;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+mzRMqhRMLfst5Ap33;1488901355974;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vGtRYikRscnrneLRE;1488901356733;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SfqjRshXxry6PkTZk;1488901366686;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rxaeZAQgX8zfxfRzX;1488901366885;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+tXnycGidW8LweQibT;1488901367587;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kZtET6W9JgArCzRyd;1488901378661;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wTNfieNTvpauxTPYT;1488901378702;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+noNcadeR5cNSLRyLc;1488901381934;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SJBSmWAQwYT2cn9N5;1488901383835;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ejHSWZ6jaREXExymf;1488901384304;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ximtY8Yux2nRANLLZ;1488901384397;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+go8ewdmzKSEdkbSLp;1488901385484;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6u8BM8xmFYiZxdJtc;1488901385522;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+26X9b5SDRhhP7d6cv;1488901399419;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wANdjDX6EksxrPcLr;1488901400067;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+usPAsvr5d4336jof8;1488901412093;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CYRWEmC6CffP9NEAF;1488901412578;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fNtMbGivdJjrHtgsF;1488901412690;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+iph4iDpL4737ruKoK;1488901416851;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ErxDTNWYamDXkhpi6;1488901417014;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+GXcGWjwRR9PoZmpT6;1488901431355;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HeWytdhEDkFrvAdxt;1488901431572;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XtQQN4ZizJYSo7faT;1488901432605;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bpCqpgLofHHNfJj4y;1488901434675;Use of student name;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+abRfPQoo2qbzTdiT9;1488901450059;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JCnb6qFMxL5nHrczb;1488901450097;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+w5kzBMBbEaHkuRbeM;1488901451330;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+oK2EFs7RtXqHsoEcr;1488901451514;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nAY5mHaTfndwNYJtt;1488901456691;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pcfXWqgLgFbKGjZm8;1488901456779;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fJvbvvMwq2D8222rc;1488901506175;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+x5i3nLBkdRZBFPk32;1488901509326;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RwecTAthQ7cy23RmK;1488901509727;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6LBGK7dDPxutdnZLj;1488901516574;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5LLMuPkF6tNgP7NPP;1488901516959;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6tPKX6JPwCcmNtMAa;1488901524615;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+cZvkM2wzyvDAr7mvC;1488901545628;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DXGYJXT2yyCC34Y2i;1488901551539;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TLaK42WDrxcFwT2GJ;1488901553610;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+in9kfK7BSBFeL6F2H;1488901553710;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yCPtowees3q5GEvK6;1488901555026;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+q6CBcFXbHWrzvgNF3;1488901555407;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5e9wpnAmx43vGCSPf;1488901558108;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+u8nCxn7Eieqvz4dtb;1488901578868;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BEDbGkCz6DoTBEAvY;1488901585595;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nL7zFNsycDYQjkrmS;1488901597922;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EuT4askLc3C853kHL;1488901597949;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+svjGTxtxXzT7DANZQ;1488901598312;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RJpjWxAX77PxcSjSP;1488901617351;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RNYajmHhohpNRoyXi;1488901632097;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EiHfaj8v5jipHTX3D;1488901647214;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Md3Cs3vbJpth7Gcut;1488901672143;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wMvEvW4YD25nHaR7v;1488901673012;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+g6JZPehjXKNFchEjW;1488901679705;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gKM7Y6y4qmZ8mQtGb;1488901681978;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+D7jSQX6RThba8J8io;1488901694797;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+a2oXwcZWJa9RDSbN6;1488901695144;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+A5aoDeefXNNgPsGdi;1488901696113;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+w95gykcdd3Kcyc5EC;1488901698286;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EhhZiacd8KhdtNYqM;1488901699118;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wMKFjqj5wcNQpWHsG;1488901699215;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5jZx9CdQbSQXseB4M;1488901706442;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+iE5Z2nqXB9EyHpTa2;1488901706596;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vDCwHEZyCxMPzBEY7;1488901707344;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hqRSTy9FedNTv2tFf;1488901707476;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LxneY37SYuuwb3ibJ;1488901707561;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WsEFTf38yvMpwfuTa;1488901709447;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DaDgqcChoqX5pT9vP;1488901709529;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+afjCSTGhhr8WRt76s;1488901710364;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wMpN7GS9ZnnsifKey;1488901710618;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+A26KfGKaKtj7HzpHN;1488901711951;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Z2kxni9xauFePC8K6;1488901712009;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vacvyG8PdwG9zAJS5;1488901716341;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jB7PRPX26a5ZPd85b;1488901716389;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Ad2ffxjS3LSgKrwaD;1488901721963;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sHvSiZAkR3ApBhYyJ;1488901722016;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+tWdrKYtD4BwpTcNpZ;1488901736441;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+R78uNc7xMptyepB4w;1488901736508;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JCzkYBsd2oAMDorqG;1488901739512;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rqQQ3W8kam4qdSZDR;1488901739578;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+a7ZYFh2hxxcxMsasM;1488901786211;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+uEnvfqEXpAm8Hgiu3;1488901786396;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+MmnPGkz4xK7xNXg23;1488901787513;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fojfphes7qsCBNSE5;1488901798427;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LskZZujNKpiafGfa2;1488901806021;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AFtwM6TXjG7K3KmDT;1488901857980;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JaK5ut3Wn6AeXfAtE;1488901861232;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FanvCm5yxkzZ6j3vY;1488901889813;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pycq9sZ8AuRBZECh2;1488901890569;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+s3btNdtBNKZ6pHaHy;1488901892110;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+a2HvefRRJJcrKsH5G;1488901894428;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+auwurHkkq2fzcyEFr;1488901894575;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+L3DEW2n997EHyZvL6;1488901899312;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SWWJo2hvimJCMqNhk;1488901905769;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5gPQ4CApGtnd8DXoM;1488901912961;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yDKyRwm68E5yXn4gL;1488901921505;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4qsCidPeuMkmbmqT9;1488901924977;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5b5yyhPiei6oaZHdq;1488901929199;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4w4SmMN8rASDCANGz;1488901930317;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+y5zFJrqvFfozmyb3t;1488901930370;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nryMr5rWh76QuGqrq;1488901932672;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+eDsyfRqL9q6yuhY9A;1488901932710;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+GnEbG7CvhN37NDxR7;1488901936756;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XepttDuvjQAP3QE2B;1488901936790;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+G5qJQymu9bze3ELDv;1488901939260;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BE8ThQsKr6XWjjqvf;1488901939302;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HB4FbXAPAjWr3JzcJ;1488901942365;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HbPb75AKAersazHeT;1488901942407;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8W54bsy6kDTvc77pn;1488901944988;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+7PBsJxkrrGoF858yf;1488901945030;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+QW9vC6KQTedc2udmK;1488901978380;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CMmtvytxtxHusWDFH;1488901979583;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rfRwJkoigpFnce4KG;1488901994096;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ce9WN8B5sXjowXNSD;1488901994253;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6aPGCsZpD6aMRQKPx;1488901994553;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Qw9zcysfzDDHMBtrv;1488902013197;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+i6GQYzbn7afmpH5fg;1488902013518;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+c3btfYiQAx4sedPZ2;1488902014837;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kywF3Jd8ywNNmFamH;1488902017087;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9k2MtrqwfxZMZvBw9;1488902017136;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+84TLtC2vTjtXRm5D3;1488902028403;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qhPHCv5iCFXa8AZee;1488902028458;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5FDDXo5YpijXc5Bzb;1488902029478;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XRJem92rKYCfm55GH;1488902030960;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qE9Ppc9oKXoES8xSf;1488902031065;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Ck69CYQvRP6WG68Ez;1488902032225;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+98GxFHY6gowNvM2X7;1488902032394;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9pruvWmFPyFdwRXeo;1488902034048;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BaBvdPKihSrfKuBHu;1488902034113;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WHyg6Ye3rRxn7aHyt;1488902095184;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JrweBPETB3p5TLfYv;1488902096277;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+89saXKBf2Y7nEsndd;1488902097493;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WY3gGB3pX5rySCqKe;1488902102501;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dzeHpdPrtJqBFC4x6;1488902110364;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TcocY4hsjHWvsfcic;1488902111328;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+orgKijL2Hy9kLD5xX;1488902111897;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+QvkkmW4bRajbNCmKA;1488902112150;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ExDTXcrSDiGjJ7zeu;1488902113484;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+v2FC6qNNeuDF6yY2K;1488902113549;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ND42YWHnd5zvW5Kzc;1488902117490;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+zaKQnPWvRvKySevRD;1488902117551;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nvQNe93TjWgMtrN4h;1488902120025;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BRruXZPbavDeLf8MT;1488902120106;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+PieH5Ss38brEbCyyd;1488902148544;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YYHfWATn3ojG9bd3a;1488902150497;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Ekgt3knouKgr2yhA7;1488902150815;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DbMEDqoBdG3wt8w3E;1488902154669;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+orZkbFDsq6eShnTFr;1488902156140;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+esbzWgMht3CfXz5MR;1488902170923;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fWyrnvvqAHzSY5HBS;1488902174092;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yekMfR5MPLdNDTcTe;1488902176296;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+79HZwjesSxDWfzxSN;1488902177796;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+QnQamQhdMopKQH8xH;1488902179030;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xYsnacAt7TpxuN5jB;1488902179067;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2xBG5o6N7x4QaxGYd;1488902179467;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DzEEv2FdJq3G836yE;1488902179514;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+E42qRubSKxmKYdo65;1488902182318;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+a7YsZRW7b9xnYfuNf;1488902182380;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+R2vSunvGHgzpxjfCZ;1488902185307;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gPpXjECp22x6xo2zZ;1488902185397;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vqhfD9vx9KLJLu4ZC;1488902185945;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ocbxgoutikNkPyfku;1488902186145;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8JnXhSfW5W9smqdPL;1488902186183;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EJPEk3NPeSJDb2fLZ;1488902186187;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pt2yxFy2t2j3kNycj;1488902194372;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+osa9iR6gD6Nzk7YPY;1488902195120;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CShJjTo96tAmitJ8g;1488902199612;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RnfKdh2aT9K6W4JJR;1488902199669;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EhAm2McQoSxdoJKeG;1488902200365;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+p82XvFCbLxyE2P5oB;1488902200481;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vMq9JpCNxQsKoaoCw;1488902209206;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AfggnNRd6QWFAQAP4;1488902209299;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rBqCSkPKbRZS3RKZG;1488902209653;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nsA6iZ7pwXu22PzAh;1488902209695;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2Y6p9rzDKCt46Dyex;1488902217102;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XmqkaWinHCCjLGL9w;1488902219290;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kqJoaStPCa7yZTHHG;1488902221110;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bm849bLqJn9TS2tcn;1488902239922;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RoNATcfAySf34cHJC;1488902242357;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+G9jnXDwHuFmQLpR4i;1488902245560;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ewcRm6tTpf8w7K6ML;1488902246646;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+C3qLZoyax9HLBEGFu;1488902247029;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+teM7fH6ygCM9NfubQ;1488902266003;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kiKJdbQfWaXSncciA;1488902277970;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pxxcYtzqLHec7mAAD;1488902279836;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EZw8v5Z63zC3yq3rp;1488902280021;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+eP9eitfxZgFugRFmg;1488902280573;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+mXpFiWCmFtyQZqBrf;1488902280625;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hxq823jn9faSxBRtQ;1488902326331;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+KKFMQ24FwupGju6r8;1488902334121;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Xr962NiiSo7QK7wqZ;1488902335076;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+J4bdtMiHzinpsgAQv;1488902337625;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sHdtyddgn6oRSWxF7;1488902344652;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fMyn3xF878Khe3H4W;1488902344725;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hXczPMDvRgWaMYmdo;1488902347059;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fq2qm25sAWtz3epJw;1488902347098;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+e6Ny56wfJFqSMxHei;1488902351243;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TH2TavCPdnwzKyrM2;1488902351865;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TvPQgjNSX3khA2pPf;1488902355972;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Cd7S3A9utSvyR7wJF;1488902370592;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xfcAsR9fdAy5pGX6e;1488902396640;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HHv484mfWbzfCYMEy;1488902408482;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jKPsAhS38bhMgujoD;1488902472145;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+QwiLHTJPSisYyLJ6J;1488902475198;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pF5dQi9RqBcnMK67j;1488902487977;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+itLRd4ub7wywrjrRE;1488902506784;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+L3EchQTjBgoWNzTLr;1488902519048;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+PTAe8jTxnqiigdDFQ;1488902519216;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+haywR3YvgvF8vfe5x;1488902524407;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+52DWaaFDtZjoiwnNj;1488902525894;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FgJkeGhr8fEatv2mi;1488902526057;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ZFvZX8P9TDtFJ9Jjf;1488902529399;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sNE9hBk6v9rBKpiFM;1488902529831;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SN8aLAqqwt938GeeQ;1488902530015;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+7rSRLnY3afMv4y2Jd;1488902530882;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+y5d6SGBX34YY5n7v4;1488902530926;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8cc6WPg443jP4wgea;1488902545967;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+PGkx5rZifgrAYEQ8K;1488902550074;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Rn2J2WFjxhfCEWE3B;1488902550135;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vznRXcwpndXvzGubm;1488902553315;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+78Wbgewbgom8nJEiS;1488902554417;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+F6HNza9sjGpRwGpzX;1488902554478;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JnyMosAaXnNe3Xo3o;1488902565191;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+PiQ6iLMhChRQy8nuH;1488902565256;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dJ5LvNDdth6hnKojx;1488902566329;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vzrCWkTctYnfgjvej;1488902566392;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CNmbkcxrbSih57ewj;1488902584252;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wWeEmDzyCWFPMzhDq;1488902599688;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+byAmGa7buw6yLioB7;1488902600689;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+e6xbhKtuzm2Ae4skY;1488902601121;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xKrw4YYDfnYQKNcNc;1488902601506;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yvn5memF4CGmyF27G;1488902604877;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ZrqQNWRasFjyXkwLe;1488902604967;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+e9Hu8DiRJxZnYpoQn;1488902609746;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+B6XhFswdL6fQFRJjM;1488902609845;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8jWakRL48Bd6mgXuH;1488902610061;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sAisukKXmBN8cgHv6;1488902610483;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SvAppEcFqgw2qJw7v;1488902610529;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rj4jL3HgHNZw2oASq;1488902638063;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+g7eqypaQYEhEZsWu6;1488902644323;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+7LqhKKtvCGEAhSF6H;1488902644771;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+WoBpk7LxxntXSqrDo;1488902647241;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8HRAiEDdCitnNLcp6;1488902649775;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+NBRMnvxpPzDCdkgFg;1488902663577;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hjwZKDTjSfATGpkTf;1488902671989;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jt5pTpdb6dt99hTRz;1488902672039;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FKm9e43segYSGyPTY;1488902672537;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JMFPd5wxjJJ7JQgkE;1488902689039;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xpErDqvdeBHKhxWxH;1488902702271;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+X28owCXsH866gkcLW;1488902703893;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XEXBtRWNPzec3kiEq;1488902705012;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pmGjaKueY6FTZyRKQ;1488902710950;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pxaRPZBY3QyhhyX5b;1488902717089;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+urdva6gycrTDyDMyc;1488902732577;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Xd78NikKnzjEp9qtn;1488902746763;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Q6hzJiw83eXxvBPWP;1488902748565;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4vnjAt55tzTecrMCR;1488902748612;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EwYZ8ZZGPwd3tA7xL;1488902761415;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qYK2Pr3rogLMHhK76;1488902761459;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+tEfX8iEDQ2AJxPayT;1488902765620;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FRbHNc7EwmsGSzsRQ;1488902765674;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TFD9pkbtWPaD8QbL7;1488902787016;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JsgsKKXuzQ9kAhreb;1488902804425;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jMhARW3YDzY6Ga5S8;1488902807261;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5NAgaRF9f7HftXSWz;1488902807314;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RDrGFDp4PpLHekQCJ;1488902807662;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qrbCjJbW2RjrTFfZ9;1488902808847;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qwNM6u774WQo9TzFy;1488902813169;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DQ2znoi3xnvGNBqbu;1488902814766;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+N6WyFGkWX5Ms8RJt7;1488902841601;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kEGvoaEuAQFRamJGM;1488902842118;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hNYdbaBoyTfu9BXvW;1488902842349;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gav282NjiCNwbFJzT;1488902843704;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+k5ATenAFTiuA7b5sw;1488902843793;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kuabuTprjbqM9dtdd;1488902854233;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4X3WwJSquJvJ3yfYX;1488902854343;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qFb4QBKjSKJzJZEww;1488902855540;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9iRZD6xuo2jMNywxv;1488902855990;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wSefeH4u47N55KQHD;1488902856337;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Ce9XpDrM4LR8h6XWk;1488902856768;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vwfE4bNp6cTSjcChJ;1488902856858;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2Yzr6HP4Y7Q5LMKTC;1488902891527;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+uGhFGK8y8D8Ab44rb;1488902897890;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bgzTYMpBWxwa4QkAG;1488902901079;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TxGkkoej6druTWciF;1488902901847;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2eJdraNgFH5rcQSJx;1488902902164;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ZuqGAioCkLjjbjB5n;1488902930061;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ddbrmEhvLq4XYf8aS;1488902931163;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6Qzbdftnxbhs8b2Rd;1488902950710;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+r3PXZfxoHnteXPQfk;1488902951312;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ed6JAZiWbsdSe6k5i;1488902951843;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+aet7qQ95DTHaqhD4D;1488902961002;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Fe99JrkM4RweXZhiD;1488902989483;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+f4Jrc6Qa26rFg6GbR;1488902993704;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+tqxi74SoQkFkJDcEw;1488902994737;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+67sA6r3GgrnHhGMer;1488903043332;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dp6WZyqA545LhTizs;1488903043437;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gbQKXEQS5ff9uPN4G;1488903045196;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gC2HXpMtgZPzZ8MTX;1488903046251;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bgChTLtSRqCsE6DQJ;1488903048955;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+T4gyK5oShx2xhF45i;1488903056864;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9EX5MstDLdTohHmA5;1488903056920;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+33BnCjDqLyeFc58P2;1488903066225;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+oz2Bw9kMpGiCkwZ3a;1488903066363;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gXPiSSRK6nn2W4Fwt;1488903077459;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9dJmiTeRsgSwQM4Aj;1488903077513;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+k6RR8xTm2NabZdpqd;1488903079327;Use of student name;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wuz3wTXvF4zyWokWi;1488903088754;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+JLgP8MWkuGS3dA6KW;1488903088824;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9WvEXeEeag8gWDf2w;1488903089423;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xAtjBhyHchuZtxipk;1488903090841;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DaSkHh4XMedwQ7Shw;1488903093161;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jfjHPmrRyDsk8rZf7;1488903096149;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DmW5ixy3RZJDBD4bf;1488903096667;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jmgkfjwaMoxG5eRHY;1488903098053;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ccExcyXWt3giLfe5K;1488903102758;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YhtaazLnN4mtoFfud;1488903102808;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kmAT5R8Za5iEZjzTk;1488903110866;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LaMKef9pjMhgyYmKi;1488903110940;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+edY9wATn83pGStq6T;1488903111367;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AMDpTTQk2rdhcuPqr;1488903117376;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yQ3kdPPB2z5HbdFEv;1488903118361;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+XmPA79qKjnyyEgjKS;1488903120147;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vbds9YejQuAaA3nCi;1488903124166;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+juSesjJDkfDpjswJa;1488903125652;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bYXFTtzvgoFJ9mZjv;1488903126336;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TNRDYqT9D742KEnyg;1488903140232;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+rPg2wZKLvWDJb2Zox;1488903140313;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+DPH5PNqatLHFg6nxE;1488903143168;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EEqzsxBePPndd3iX3;1488903146389;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TKXRnRTWd4TMvLFnp;1488903146890;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FDXoMXGgRXNNmWp3B;1488903148513;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+qNTwLxGQKwJ5nKHoN;1488903149277;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jYo8nzAaZ7FKQtuTY;1488903149350;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TGwD6vWMfsuYNzqKf;1488903162342;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sBYixwagrxBXbGmi4;1488903162712;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sqXXGmZAYytiqRNCM;1488903163767;Hand raised;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+f42ynmDX7FWqxDkGr;1488903164315;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2cFfnsrF37uxTjgD7;1488903164376;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+v5b4XXrqAgGZnbKAR;1488903176685;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+3Rxr8hWiQBwFkayWK;1488903176741;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YM4hLnTpg3qWkq7dw;1488903177117;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+yGXfsqc3u9s8Q2eaz;1488903177214;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TWaiWhrgACuEuMEA3;1488903186593;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+8DDv8T8E4b7NYdo9S;1488903186673;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+MzBj8827Ym8F5ufcE;1488903186892;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+7fCZ8wF4qp5i9C8GT;1488903186946;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YucnT7RhLmSfebrAB;1488903205079;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+TDCvHTuaSLaZKMcQZ;1488903207480;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LawWgXkAjNCYd65RF;1488903211757;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+GKa766LbF8mDKNLDK;1488903211988;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nCPTadPSJX5kpkWoq;1488903218265;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+A5jbXq3Erd7azWT9E;1488903218323;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+v2urGRSGhknTJ5A6X;1488903226292;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nCc32bhLKNTwQLpwC;1488903242481;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YeSH3shAy2w9KccXL;1488903272564;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BqGeu3yi6uxaeStQg;1488903273002;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4rqEJ4LMseuyBWEf3;1488903273934;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LDyzPNFxGfoga8KdF;1488903286319;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+KWdbqSvZiwwaf6Xxq;1488903287398;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fsHXyudmxoQuRCKvJ;1488903288121;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+K3cmxe48oJG9QEZQ8;1488903288180;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+2JLQBhCFcDkhF6oe7;1488903297393;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FBATrnnudJHtha3jo;1488903297500;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vDaLrhqoM9uCoYKsd;1488903298911;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4GJWZBQZ8wFgC7DbR;1488903299006;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+fGdJTuAimZZfYHfCC;1488903330903;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LAibgHqd39RijefTC;1488903331103;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+4SesJZFNH3ahMvBXT;1488903336109;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+BXHPzSQ4CwLLT5Fvs;1488903336155;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+RMABoRgdPwCNybiaS;1488903339480;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wZejC9s5rpm4xpdFP;1488903339526;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+jurdAcikWeFNqbG8r;1488903339981;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+szEQBimagqvg6HNeY;1488903340173;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+wNE4eTWP59CDF6Qvs;1488903394082;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dTSbzicjW3MXRX6Gu;1488903394194;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kHcKmnLSD5QaWF9C5;1488903404843;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+NGMmpysBwxRFCybsw;1488903405397;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nY9rBTHd8LtgFu7dG;1488903406362;Not bad TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+caH6orRSETaBCCzhH;1488903406914;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+53aqLvEfBDcSddCSJ;1488903407367;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HKcHYZjpoMoJadxRy;1488903439703;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gotGtDv2ytxhX6kWY;1488903441453;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CCmXyc3Joyo8godNL;1488903441571;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bi35r9DrMZb8A2Xy8;1488903445058;First time student talks;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;true
+9KyPFEiDWZsr4bx5u;1488903446791;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+ccKprnQmaJ9BrkL7C;1488903453581;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+bJgpBypz7kJrqJSHv;1488903454721;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+24JnoPY7kxFKXJZz8;1488903456940;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Z8QdoyLBS2hK7mng9;1488903467985;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sx4k4aDSRDEqpm9kH;1488903468054;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+EhAMophadkoRL5nD4;1488903472707;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hTw8xaDQK6aP3qEDK;1488903472777;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+9Hz6BMPqdZSNDoDoF;1488903476966;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+sQ2dL7XrYNr85kq8T;1488903477039;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+kz5efJkEsegePFDf6;1488903480370;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+skYuw6MdXDXvmK2Ae;1488903480434;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+r5QCMsabEeWBb5hRD;1488903484775;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+6NHjdAuftqbsb35Lq;1488903484837;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+FKxfuJkJSrcG76yPN;1488903487195;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+uupKkYuZxi6DYpavC;1488903487256;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+oc4PkKbyQmXQ7tn5n;1488903491068;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+5DX9zhQCBG3tC5jDc;1488903491130;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+NhThry9c5pJ25eDYi;1488903492918;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+vSdA96XpfzbkxEBRb;1488903492979;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+T6TDenBqtiKiESmi7;1488903500357;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+mXhDMagvWYviC7Nqm;1488903500415;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+CDgSrgeDa6Kjst4dL;1488903501027;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+84FFM98p4R8Ejqd3N;1488903501100;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AEBJnytjfEDjsrvAi;1488903502260;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+gaGsFKEHHuXYPbMeq;1488903502318;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xBdpuwRh4bAyxneQ5;1488903506620;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+pWN48jFeRyYzAeLZr;1488903506682;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+S2hWgFqvEpuTA2u7M;1488903509468;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+hbnqtvuKbdbztfjtS;1488903509530;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+AndupkdXHFuBMCNoy;1488903510887;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+HCG5tDbuteB2ZBPYC;1488903511070;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+GN7rxDx79kZswZQEk;1488903527310;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+nvrr8nN2XxfrgKgiH;1488903527373;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+taTJqNeYXiQPH4t4a;1488903530346;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+xgrrQAryGYNRJYcz7;1488903530413;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+3GJzipHNwhFmkCLw3;1488903581357;student begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+dzmHATjxshpivdR9X;1488903581415;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+an6HdvdDdF9Ak6eB7;1488903609845;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+YhSpmcCq8EgqbeM6Z;1488903609913;student end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+E4ncb4jvpcpy5wwjX;1488903712264;Meaningless TA Question;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+Bcogo5ERc57iH8unv;1488903712760;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+LLGy2eCum9rfzESiB;1488903713323;teacher begin talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false
+SXvFNa5GPuPJRNCF9;1488903718613;teacher end talking;L6bwygqYBatcPR7YW;Tuesday_10:30_3/7/17;2;false

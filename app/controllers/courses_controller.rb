@@ -11,7 +11,7 @@ class CoursesController < ApplicationController
   # GET /courses/1.json
   def show
     # puts @course.session
-    puts @inputs_for_course.map{|o| o.sessionDesc}.uniq
+    # puts @inputs_for_course.map{|o| o.sessionDesc}.uniq
   end
 
   # GET /courses/new
@@ -67,7 +67,8 @@ class CoursesController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_course
       @course = Course.find(params[:id])
-      @inputs_for_course = @course.get_inputs
+      # @inputs_for_course = @course.get_inputs
+      @available_dates = @course.get_input_dates
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.

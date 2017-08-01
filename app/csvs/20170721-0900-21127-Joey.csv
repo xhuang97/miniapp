@@ -1,0 +1,289 @@
+_id;dateTime;type;sessionId;sessionDesc;sessionCond;isUndo
+fQtsr92W44wNYSHcx;1500642039664;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+GpLwbta4CCEWfN9Jt;1500642041318;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+52SY7pLPiZSzKZpuJ;1500642042994;timing begin;u5na2Y3bhLQFSEQWY;;2;false
+tFqaf75q52wFJGZ6C;1500642044655;timing end;u5na2Y3bhLQFSEQWY;;2;false
+TJbcBmud6gN636354;1500642047235;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+YSXozkg4r7ibkmenH;1500642048855;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+y2dtKBJWk9RZiJayX;1500642050490;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+EwXWM4x6HmL9Z94h8;1500642052141;Meaningless TA Question;u5na2Y3bhLQFSEQWY;;2;false
+XXhXkK4HmtpyQGk4Q;1500642052144;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+Dy6wRHmjXzzTtcWb6;1500642065203;pause begin;u5na2Y3bhLQFSEQWY;;2;false
+WsCBggLsLQ3GhuNup;1500645967784;pause end;u5na2Y3bhLQFSEQWY;;2;false
+f98274CJnNtxmuLLo;1500645968004;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+sxwXDpivevsST3DYi;1500645972402;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+vQ2aNCeP58bRrkMNM;1500645977254;Meaningless TA Question;u5na2Y3bhLQFSEQWY;;2;false
+b3FCMGLbdxwPtQ3Mn;1500645978933;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+uXJ78tmdixBShXjA2;1500645981106;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+4cXEuH29zag4Wa9QT;1500645992590;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+6J5cL8pQgZR4hoSdc;1500645994292;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+NWydGm7wHquFy8jLq;1500645994300;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+u2nYEuY3voPmftm5L;1500646002131;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+kTu9oCaenk3S5voXy;1500646013709;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+yKbugZGc7DRHMtRs2;1500646015989;Meaningless TA Question;u5na2Y3bhLQFSEQWY;;2;false
+zApynwL7JXpReuJEK;1500646017614;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+b52qMLAdBwE2nnLyz;1500646017619;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+SZHveGXT8ud56w8GA;1500646025424;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+KP9BnBpyv5nr4ijBe;1500646027035;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+tJSthmggoLofbDMP2;1500646029254;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+xKfeMYBnKCPPB6cTL;1500646030855;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+97WuFBLtnL4EuvyAh;1500646032483;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+WEEuT35akdoEqWrMu;1500646032489;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+maQbf2t9GGQtD62wj;1500646037626;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+L2qYQX686pGB3r5vp;1500646039248;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+HmWR4qjGCT554CnBb;1500646039258;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+Fi94aLRphS8XBKCM3;1500646040952;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+oLCfXFYZXYNLHMLjb;1500646042637;First time student talks;u5na2Y3bhLQFSEQWY;;2;false
+sve4TkgPkwnq4i2PH;1500646042648;Hand raised;u5na2Y3bhLQFSEQWY;;2;false
+oG7nLGcTCrz5y4ki4;1500646045012;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+wCWwJp2smLix5bb9B;1500646045022;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+R86mJWhMa7iLLgkJa;1500646047461;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+m5YLFiN4DwsytjySs;1500646049416;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+cxr6SEPNSmSQqQDRM;1500646049422;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+fGTKY8pHHhXyWXNCS;1500646053393;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+6AkPBjTcHFhRiys7g;1500646055305;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+CT9dRE5NoayyjJdgb;1500646055311;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+FbNGp62BMqfo5tH79;1500646055314;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+2AErmS9FoSNzE2bdw;1500646063098;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+hjhYukQXEChwnKTPn;1500646064955;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+42RB2JJs9zgq6b2B8;1500646064962;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+decnokMBFXGCZP8aA;1500646064964;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+5mW88sd6JpZes5nuT;1500646068454;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+6eco4NKvNCD5BQKaZ;1500646070374;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+ybQkc5kd4wNgtCpuK;1500646087759;Students present;u5na2Y3bhLQFSEQWY;;2;false
+uxwFJaMRT2E7vpJ5o;1500646089668;Students present;u5na2Y3bhLQFSEQWY;;2;false
+7sJTbejYaPemFFAXe;1500646089678;Students present;u5na2Y3bhLQFSEQWY;;2;false
+yjoaECTv4z8WWKhiZ;1500646089684;Students present;u5na2Y3bhLQFSEQWY;;2;false
+i2dHNxt5PCsyKoeyW;1500646089697;Students present;u5na2Y3bhLQFSEQWY;;2;false
+pZxv8oSGmBz69fk9Q;1500646089709;Students present;u5na2Y3bhLQFSEQWY;;2;false
+gK8JMMrEQfmkqWfxD;1500646089720;Students present;u5na2Y3bhLQFSEQWY;;2;false
+BBTf3p9Awk7x797B3;1500646089727;Students present;u5na2Y3bhLQFSEQWY;;2;false
+rM5cMuPYzJTFiP3Er;1500646089734;Students present;u5na2Y3bhLQFSEQWY;;2;false
+aZw9GJuvbQ4T4ZTAm;1500646089740;Students present;u5na2Y3bhLQFSEQWY;;2;false
+ukZuL9T5d99YcpyeT;1500646089746;Students present;u5na2Y3bhLQFSEQWY;;2;false
+7nyCrG3MFF6EaPJbH;1500646089753;Students present;u5na2Y3bhLQFSEQWY;;2;false
+jvjbFEo6wbKH6GFjd;1500646091680;Students present;u5na2Y3bhLQFSEQWY;;2;false
+dmgdeLCgvHmjKGdE3;1500646091686;Students present;u5na2Y3bhLQFSEQWY;;2;false
+FwDksbMDy8HZca3wX;1500646091693;Students present;u5na2Y3bhLQFSEQWY;;2;false
+Ssre3x3Dqkmiud8Mb;1500646091699;Students present;u5na2Y3bhLQFSEQWY;;2;false
+nhfuBTu2dhDppaiyo;1500646091706;Students present;u5na2Y3bhLQFSEQWY;;2;false
+riYSbJwXNDWMD2omY;1500646091712;Students present;u5na2Y3bhLQFSEQWY;;2;false
+tJJLkE3uokw8TnZr8;1500646091719;Students present;u5na2Y3bhLQFSEQWY;;2;false
+ytSxG8PcAadPuc9t6;1500646091725;Students present;u5na2Y3bhLQFSEQWY;;2;false
+g3GNQFvbExdJXsLPx;1500646091731;Students present;u5na2Y3bhLQFSEQWY;;2;false
+vfWMNM24BH5L3d9uz;1500646091737;Students present;u5na2Y3bhLQFSEQWY;;2;false
+QZZQPLSEn8os35XRi;1500646091745;Students present;u5na2Y3bhLQFSEQWY;;2;false
+SaXfSYopPfhPkkqek;1500646091755;Students present;u5na2Y3bhLQFSEQWY;;2;false
+qxsnWHXTZwJaj7Zf9;1500646093708;Students present;u5na2Y3bhLQFSEQWY;;2;false
+8Gi5AQsofx7ewjFQB;1500646093715;Students present;u5na2Y3bhLQFSEQWY;;2;false
+743uC7uiWBvD47fzL;1500646093721;Students present;u5na2Y3bhLQFSEQWY;;2;false
+G9WfMDQCo2oLZ8dMN;1500646093722;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+TMLLCdEtj7QKWZXrG;1500646095672;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+JWmxuyQMfHag6N5HK;1500646108452;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+E2tnit6BK7GTqjxEk;1500646110248;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+MSK92v5ZYQERMnLzu;1500646115257;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+pDPzsrms32XY5Hy5S;1500646116993;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+RPxKpEvPx8MhEn67y;1500646119890;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+Ksdn4eQgxuj3cgBWZ;1500646121516;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+kihpY2FsdMLkkBp5m;1500646121524;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+RfRnvWxCKg5PRuw29;1500646121529;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+H4TQSEe6X6AX6qgCg;1500646123175;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+97Pf5ruPLPQSnEpRD;1500646123181;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+N2bNiYu5kPGee7gvr;1500646124846;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+rvv2Lr8KDuebmoxyz;1500646126505;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+qzatLcrZNdvDoLwcv;1500646128142;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+SGL3cF3ebPnkpQWtx;1500646131888;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+3o5EkFm9dfQaJYc36;1500646133510;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+gd7tuXDZoG8ZT9vtm;1500646144493;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+dy5rEqCTiqNbAazLB;1500646147717;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+yrZJqYvA9nEKiojRa;1500646147734;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+2qK9DWt6Wd7cWWyM4;1500646147737;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+eyfT8ozhvSpqDs5MB;1500646151037;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+qwN8heZr3XA7S9wpR;1500646152675;Hand raised;u5na2Y3bhLQFSEQWY;;2;false
+tiRPGdRv397hYYWrC;1500646154452;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+X4rAkGQphLZq4FiDY;1500646156093;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+godfXbgipE373SxFd;1500646158228;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+hn3R4JpGBoSXQKaDz;1500646159863;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+ML4TzQTzxYsCQ8KoQ;1500646161503;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+ctdnNnSgiYrFs6JDv;1500646161508;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+SLkebvY9gHn6y57mC;1500646164168;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+JbsT6yqs99RgDhJXG;1500646165743;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+5X8mWAXy4EToLQ8De;1500646167373;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+xvFEjp5MJZ2R4gvtR;1500646176739;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+MN5thuktW35WNCprQ;1500646178777;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+tydWhsbfvZnX42ANc;1500646178788;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+XwGkcS5RdXpyxadiq;1500646178793;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+pA9y5W5BjaeumcAdA;1500646182030;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+KHX7Pr7RdCL89d5rm;1500646183822;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+v9iFnafH6PJeFzHdf;1500646188826;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+AbdjAi59m8ESqqgn2;1500646190574;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+qoyNQzShcSZWBZ3Eh;1500646190586;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+x3QS855ZvBwrmv6Pf;1500646192624;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+5vzSYGuFgz34Mt4hr;1500646196537;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+estW5ZDdtEgQFG2Nc;1500646198146;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+2HJnxACNvWmsQhQ3D;1500646214523;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+uDBJNdj6shvsGxqyc;1500646216353;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+7ZNpEbb2FH8No6dMF;1500646219230;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+MPnXYaT3ftXoSxxwi;1500646220867;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+rRi2K4capav3PDCGm;1500646225112;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+umJNoTke9Ydh6Dnzv;1500646228380;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+fgJLyoyqor2gQGznu;1500646228395;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+acNifjM8cpdoyhf8G;1500646228399;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+kGs5zxBvsNYB7tawX;1500646232244;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+FBFu4YGTekz7tSFh9;1500646234126;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+Qqb8ySaHrvYNEyC3c;1500646235745;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+nwNJKdpSGmJMReMdD;1500646249560;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+mSQKvxeZ9nfYenYfq;1500646251229;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+e2S3E767BpwzM9ZD9;1500646251238;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+fwWFyK9TG74ZrRjDt;1500646251242;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+3YiCQSdkLunJkBMHb;1500646252860;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+vXSMzjs7xcgRYHjR8;1500646254417;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+eeXDdeJtwZmot4HA9;1500646257657;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+yCpMGvGekXgRWwcYN;1500646257674;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+DNYGBzrJCFsmKniST;1500646257676;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+tREnMbX7s7kQbTbjf;1500646260979;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+chgvcNixov2mrE9Rj;1500646263518;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+CP2cDJJ88Sx5oRmWZ;1500646265144;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+RtDqXeGbiCvbpBsp9;1500646265151;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+ZnWGxkGDb3GHxH55d;1500646265154;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+4Yd7LEoeifj4NbX7i;1500646268168;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+BQkhZGwHNSq6XRMDR;1500646269826;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+xdyiudZ6ErYxtoBkd;1500646269829;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+mqSJNE7XQniF2w7Fa;1500646271945;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+cgLyxbaJMuZzKbEEx;1500646277108;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+daySRQAemxQQu9uX4;1500646280889;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+4iNWjQFBetTPELBQG;1500646282529;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+WL5QGR3WnffSjfusn;1500646284193;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+WLRToBGjn9jaG6DJn;1500646284201;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+4JoiFqhuAsSdagtuT;1500646286346;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+8HeaCz5zNCR5ajxc6;1500646288199;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+p4JaPfQRm4PvNqxMp;1500646290689;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+DDSmeCZipfoyBhLw4;1500646297751;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+rnKarhw2zaCQd5rQb;1500646299428;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+MnKGkbznhAfgiYdkh;1500646301072;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+XQpxvDTBTzFc4RPWE;1500646311557;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+aLZAmNAjaEtaNBdXz;1500646313251;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+GeLAyWwjShDQhyAP8;1500646313260;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+5kgjJNxwRZkdGzYeo;1500646313265;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+CxGTJtZud2PdCay3f;1500646318322;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+BbLTJwDppybAoexuz;1500646319998;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+joYvFgdmWAQ7vqsh4;1500646320007;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+pbuZgngLxqrRQubyb;1500646320012;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+XkE65jvd55sAvy6Wq;1500646329729;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+v4yLNvJgRnLDpyo8B;1500646331398;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+QaDhLnZeAowPDDkWd;1500646331408;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+dccesafQACeZQNBov;1500646331413;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+3qynehZCXJpxSrtLB;1500646333095;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+qE8YWtskz7JyNwteC;1500646333100;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+RiqWu4Z6gXsBe4DG4;1500646333101;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+zqDX2YXKTamzz8M4E;1500646337278;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+E7i4RBadmp6RuyWAE;1500646338954;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+T69vfPwjvKKBQxLe6;1500646349833;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+HpQcn4TxgPogtobNv;1500646351506;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+CyR4ChXyd99FipiKu;1500646353591;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+WbPLd5BYmjExxR4Ac;1500646355255;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+Eio6enDFrzrC5Hz9M;1500646356921;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+gTppoBgLqDuCmkRFt;1500646358594;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+fcta76wmvKpgxYa6q;1500646364901;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+kyBmdv8n5QsQCt4zZ;1500646369892;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+HwfJu2Pdcr2RTjEqm;1500646371583;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+gAS8H5wgupKQ7DpsB;1500646373279;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+bW3tJkyjhqSKAMrtE;1500646375457;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+We3MgXxnXvvrBHkgR;1500646375480;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+ratTwNAJbjFSmHQev;1500646375483;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+2GB4Qg8AmCWhGcumb;1500646377135;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+ZuJvmZ5you79yykq6;1500646380694;First time student talks;u5na2Y3bhLQFSEQWY;;2;false
+hH4KZTyMWxTwwFvCx;1500646382829;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+yrA4ZQQm2HDo5bDKm;1500646384515;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+ys5ntHp5mMcqkh5Mf;1500646387544;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+e46hjiMGr7aGhv3i3;1500646389216;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+Q342GegujkQWb5Q6p;1500646389224;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+WtrTnm59f65cSrfSf;1500646389229;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+NQCSebE5rMGBLBqNZ;1500646390905;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+2755sZyqBXYkvgnXZ;1500646390907;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+TwgZLBuTueJZiLYx5;1500646390910;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+jBSm9FW53zHB3Yn6e;1500646407564;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+CdvrJs2t3F4Rx89bk;1500646409232;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+JSCyJwcSKfgerj36G;1500646426267;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+PZDSswRLh7zsj9Yd2;1500646427916;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+yrbc6vWPA8BkPG96z;1500646427922;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+Rj2iGhxcYZyxLYa6v;1500646431240;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+wtp2Ge8d3tKxjTxDv;1500646433265;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+58rXNK74XMHT9TZtF;1500646434907;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+DgAcmFSRXswispMuC;1500646450652;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+d7jDBLBRKNtAfdoyA;1500646454463;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+u4ArhcPhAvwTBpTCR;1500646474013;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+vDvsfaz79uTmYxGdQ;1500646475903;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+HGHETPEqkufvcJ9Ya;1500646478310;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+wBMevRsBKtxh8PaTX;1500646480195;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+xFER7Apt9dDiNksoF;1500646482111;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+4J49zATcJjyR5tTGx;1500646497557;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+te34k8SERLqB5MGSf;1500646499508;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+jzkosyEJoAHTJiCya;1500646519212;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+682GYASvMRYnPmnhX;1500646520972;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+gK7kvY4SCMh3gAkvG;1500646530262;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+Y4D2HjnqjKHz29fAm;1500646532007;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+Ynqays5tnxAGHAQMg;1500646533773;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+ZaTaqBSdKfz2LLtFA;1500646537300;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+MiCiABgGBz6EsXiZk;1500646539080;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+CTwCGPgv6eEqBXD6P;1500646539085;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+stkso3YePzHsbTi9p;1500646542341;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+KeTug2HiGH6TNLLQz;1500646544088;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+9TAWgczgtLzMcCXjt;1500646544090;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+9onEdWy3GsfFoWuqT;1500646545854;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+oXgyo4KDtf9kG7xAP;1500646547613;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+kW3RcY849eBsKoQR4;1500646551139;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+cFuvj6j5B8qDMH5QY;1500646551150;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+3Kxh3jcoLCkpjBqzf;1500646551153;Not bad TA Question;u5na2Y3bhLQFSEQWY;;2;false
+SDBEYCdvA8GPgn5S2;1500646551157;Ice cold call;u5na2Y3bhLQFSEQWY;;2;false
+b5L9Qm3aArEpSXSiY;1500646552924;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+PX3mpXoquKzPz3z39;1500646555677;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+nKMvy3jTbaFbST6kj;1500646557450;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+bGGo2aRfiiGhtvQdG;1500646559212;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+Sh6N8eGi4JKKGhvsX;1500646560981;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+2E5jPXFJsEw5mqAxu;1500646560987;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+qwBz9t73siTdBShSE;1500646563095;student begin talking;u5na2Y3bhLQFSEQWY;;2;false
+QKZG4xdu9pRzkJuFJ;1500646565532;student end talking;u5na2Y3bhLQFSEQWY;;2;false
+xgDCNtw7uLZSQrtwe;1500646567190;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+Pn9ELvBuc6fqa3AYZ;1500646579256;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+QYGNvkiaxaxX9Tbxi;1500646581016;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+aY5qCM39cK7yYfk4Q;1500646582869;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+4zrPqrEsN95EyRDpX;1500646589278;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+26xXQjTLLefqGWYyd;1500646596918;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+MFcghSJjX9J5tGubH;1500646598543;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+NqtbPBz3txwC2ZD6G;1500646603775;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+eypxDAuPkLhL3rgE2;1500646605388;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+E74axpdNhQrCwNdfS;1500646610526;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+kt4n8xLornsWZo9XE;1500646612156;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+qoHAyoHFh7v7snnTJ;1500646615492;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+nek5gGq3n5rXPo7Ha;1500646617133;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+cGBgD6BSeHQeaxZS7;1500646619572;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+aKv8yKDqR28t37ZwR;1500646621202;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+d2W7H6uSReAxTszhd;1500646657973;Students present;u5na2Y3bhLQFSEQWY;;2;false
+EkRDFQ3aj63Dt7uh4;1500646678193;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+QmT5WiJmcXE4QBoLc;1500646679882;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+QchwtvbdZMhoPeMTu;1500646683045;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+6YvjgnjLykt4tQqog;1500646685035;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+tWLy2WDkSccJcGkxz;1500646687059;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+FJatS7Pc3mwLMGTmR;1500646687067;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+wCwrzEWajYXd2eRXs;1500646690964;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+qfWKtRbBXTqkSM27X;1500646692928;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+WRPGRmq9Kp76tLkp8;1500646692939;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+pvwEZjGS2azRL9SvQ;1500646692943;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+2AanccvtEE8ND7XnZ;1500646692949;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+hk8pXCEJ3wQTvHsh2;1500646694968;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+SrMXKxD93LgoJJzDF;1500646699788;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+GAArCGNwaPReLgR5E;1500646701779;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+MfiK8dJMjeNPajS2L;1500646741795;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+6PAhsPbx6NRcuBgHz;1500646743486;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+PWEFjuf9WhypoLkid;1500646745480;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+Hh6t8ov7anoz5YfNu;1500646747217;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+G4YZDzwXSFrNMrdmv;1500646747226;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+8D9hWbYurbdML4Dj8;1500646750752;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+JDQusz7BHWxStjwar;1500646750759;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+XxggfJg4AxorMfosv;1500646752504;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+McsdPj8GJkG6Ecc3C;1500646752510;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+tkLcG9Ev6jshWbmHG;1500646752515;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+A8HKo6PW9HBuhuBjd;1500646752521;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
+xq8w3RYqHjgDbsz5i;1500646755990;teacher begin talking;u5na2Y3bhLQFSEQWY;;2;false
+XHPJQak6GqEF86e2Q;1500646759441;teacher end talking;u5na2Y3bhLQFSEQWY;;2;false
