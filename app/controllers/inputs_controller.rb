@@ -65,11 +65,11 @@ class InputsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_input
-      @input = Input.find(params[:id])
+      @input = Input.find(params[:_id])
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def input_params
-      params.require(:input).permit(:_id, :dataTime, :type, :sessionId, :sessionDesc, :sessionCond, :isUndo)
+      params.require(:input).permit(:_id, :dateTime, :type, :sessionId, :sessionDesc, :sessionCond, :isUndo)
     end
 end

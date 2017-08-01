@@ -18,7 +18,7 @@ class InputsControllerTest < ActionController::TestCase
 
   test "should create input" do
     assert_difference('Input.count') do
-      post :create, input: { _id: @input._id, dataTime: @input.dataTime, isUndo: @input.isUndo, sessionCond: @input.sessionCond, sessionDesc: @input.sessionDesc, sessionId: @input.sessionId, type: @input.type }
+      post :create, input: { _id: @input._id, dateTime: @input.dateTime, isUndo: @input.isUndo, sessionCond: @input.sessionCond, sessionDesc: @input.sessionDesc, sessionId: @input.sessionId, type: @input.type }
     end
 
     assert_redirected_to input_path(assigns(:input))
@@ -35,7 +35,7 @@ class InputsControllerTest < ActionController::TestCase
   end
 
   test "should update input" do
-    patch :update, id: @input, input: { _id: @input._id, dataTime: @input.dataTime, isUndo: @input.isUndo, sessionCond: @input.sessionCond, sessionDesc: @input.sessionDesc, sessionId: @input.sessionId, type: @input.type }
+    patch :update, id: @input, input: { _id: @input._id, dateTime: @input.dateTime, isUndo: @input.isUndo, sessionCond: @input.sessionCond, sessionDesc: @input.sessionDesc, sessionId: @input.sessionId, type: @input.type }
     assert_redirected_to input_path(assigns(:input))
   end
 

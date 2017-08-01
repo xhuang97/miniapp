@@ -2,7 +2,7 @@
 
 one:
   _id: MyString
-  dataTime: 2017-07-31 12:27:34
+  dateTime: 2017-07-31 12:27:34
   type: 
   sessionId: MyString
   sessionDesc: MyString
@@ -11,7 +11,7 @@ one:
 
 two:
   _id: MyString
-  dataTime: 2017-07-31 12:27:34
+  dateTime: 2017-07-31 12:27:34
   type: 
   sessionId: MyString
   sessionDesc: MyString

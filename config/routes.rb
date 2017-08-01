@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :inputs
+  resources :inputs, param: :_id
   resources :courses
   resources :home
 

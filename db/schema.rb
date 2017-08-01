@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 20170731170456) do
 
   create_table "inputs", id: false, force: true do |t|
     t.string   "_id"
-    t.datetime "dataTime"
+    t.datetime "dateTime"
     t.string   "type"
     t.string   "sessionId"
     t.string   "sessionDesc"
@@ -32,5 +32,7 @@ ActiveRecord::Schema.define(version: 20170731170456) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "inputs", ["_id"], name: "index_inputs_on__id", unique: true
 
 end

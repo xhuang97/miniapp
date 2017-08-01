@@ -4,6 +4,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :null_session
 
   before_action :set_courses
+  
   def set_courses
       @courses = Course.all
   end

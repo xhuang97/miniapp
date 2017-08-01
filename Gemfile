@@ -41,3 +41,21 @@ gem 'autoprefixer-rails'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+group :test do
+  gem 'shoulda'
+  gem 'shoulda-matchers'
+  gem 'minitest'
+  gem 'minitest-rails'
+  gem 'minitest-reporters'
+  gem 'factory_girl_rails'
+  gem 'mocha'
+  gem 'cucumber-rails', require: false
+  gem 'capybara'
+  gem 'database_cleaner'
+  gem 'launchy'
+  gem 'email_spec'
+  gem 'nokogiri'
+  gem 'simplecov'
+  gem 'single_test'
+end
