@@ -5,7 +5,8 @@
     <tr>
       <th>Ta name</th>
       <th>Course num</th>
-      <th>Date</th>
+      <th>days_of_week</th>
+      <th>time_of_day</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -15,7 +16,8 @@
       <tr>
         <td><%= course.ta_name %></td>
         <td><%= course.course_num %></td>
-        <td><%= course.date %></td>
+        <td><%= course.days_of_week %></td>
+        <td><%= course.time_of_day %></td>
         <td><%= link_to 'Show', course %></td>
         <td><%= link_to 'Edit', edit_course_path(course) %></td>
         <td><%= link_to 'Destroy', course, method: :delete, data: { confirm: 'Are you sure?' } %></td>

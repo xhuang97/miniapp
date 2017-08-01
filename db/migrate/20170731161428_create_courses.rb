@@ -3,7 +3,8 @@ class CreateCourses < ActiveRecord::Migration
     create_table :courses do |t|
       t.string :ta_name
       t.integer :course_num
-      t.date :date
+      t.string :days_of_week
+      t.string :time_of_day
 
       t.timestamps
     end

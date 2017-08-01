@@ -6,15 +6,15 @@ class Input < ActiveRecord::Base
   # custom primary key
   self.primary_key = :_id
 
-  scope :for_date,      ->(date) { where(get_date == date) }
+  # scope :for_color,    ->(color) { where("color like ?", "%#{color.downcase}%") }
+  scope :for_sessionDesc,      ->(session) { where("sessionDesc = ?", session) }
 
   # validations
   validates :_id, presence: true
   # , uniqueness: { case_sensitive: true }
 
-  def get_date
-    @datetime = self.dateTime
-    @date = @datetime.strftime("%m/%d/%Y")
-  end
-
+  # def get_date
+  #   @datetime = self.dateTime
+  #   @date = @datetime.strftime("%m/%d/%Y")
+  # end
 end

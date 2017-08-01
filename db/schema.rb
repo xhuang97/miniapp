@@ -16,7 +16,8 @@ ActiveRecord::Schema.define(version: 20170731170456) do
   create_table "courses", force: true do |t|
     t.string   "ta_name"
     t.integer  "course_num"
-    t.date     "date"
+    t.string   "days_of_week"
+    t.string   "time_of_day"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

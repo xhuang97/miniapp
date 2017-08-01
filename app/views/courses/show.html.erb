@@ -5,7 +5,8 @@
     <tr>
       <th>Ta name</th>
       <th>Course num</th>
-      <th>Date</th>
+      <th>days_of_week</th>
+      <th>time_of_day</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -14,10 +15,48 @@
     <tr>
       <td><%= @course.ta_name %></td>
       <td><%= @course.course_num %></td>
-      <td><%= @course.date %></td>
+      <td><%= @course.days_of_week %></td>
+      <td><%= @course.time_of_day %></td>
     </tr>
   </tbody>
 </table>
+
+<h4>Course Data</h4>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>_id</th>
+      <th>DateTime</th>
+      <th>Type</th>
+      <th>Sessionid</th>
+      <th>Sessiondesc</th>
+      <th>Sessioncond</th>
+      <th>Isundo</th>
+      <!-- <th colspan="3"></th> -->
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @inputs_for_course.each do |input| %>
+      <tr>
+        <td><%= input._id %></td>
+        <td><%= input.dateTime %></td>
+        <td><%= input.type %></td>
+        <td><%= input.sessionId %></td>
+        <td><%= input.sessionDesc %></td>
+        <td><%= input.sessionCond %></td>
+        <td><%= input.isUndo %></td>
+        <!-- <td><%= link_to 'Show', input, class: 'btn btn-primary btn-xs' %></td>
+        <td><%= link_to 'Edit', edit_input_path(input), class: 'btn btn-info btn-xs' %></td>
+        <td><%= link_to 'Destroy', input, method: :delete, data: { confirm: 'Are you sure?' }, class: 'btn btn-danger btn-xs' %></td> -->
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
 
 <%= link_to 'Edit', edit_course_path(@course) %> |
 <%= link_to 'Back', courses_path %>
