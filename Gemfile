@@ -33,7 +33,9 @@ gem 'autoprefixer-rails'
 # postgresql
 gem 'pg', '~> 0.21.0'
 
+
 # skylight
+gem 'certified'
 gem 'skylight'
 
 # Use ActiveModel has_secure_password
