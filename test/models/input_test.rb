@@ -27,19 +27,26 @@ class InputTest < ActiveSupport::TestCase
       assert_equal :summer, @test_summer.get_season
     end
 
-    should "have a working method called get_full_dateTime" do
-      assert_equal "Tuesday_16:30", @test_spring.get_full_dateTime
-      assert_equal "Thursday_09:00", @test_summer.get_full_dateTime
+    should "have a working method called get_day_time" do
+      assert_equal "Tuesday_16:30", @test_spring.get_day_time
+      assert_equal "Thursday_09:00", @test_summer.get_day_time
     end
 
     should "have a working scope called for_course" do
-      assert_equal ["testingid3"], Input.for_course("Tuesday_16:30").map{|o| o._id}
+      assert_equal ["testingid3","testingid3b"], Input.for_course("Tuesday_16:30").map{|o| o._id}
       assert_equal ["testingid4"], Input.for_course("Thursday_09:00").map{|o| o._id}
     end
 
     should "have a working scope called for_season" do
-      assert_equal ["testingid3"], Input.for_season(:spring).map{|o| o._id}
-      assert_equal ["testingid4"], Input.for_season(:summer).map{|o| o._id}
+      assert_equal ["testingid", "testingid2","testingid3","testingid3b"], Input.for_season(:spring).map{|o| o._id}
+      assert_equal ["testingid4","testingid4b"], Input.for_season(:summer).map{|o| o._id}
+    end
+
+    should "have a working scope called for_date" do
+      assert_equal ["testingid3"], Input.for_date("03/21/17").map{|o| o._id}
+      assert_equal ["testingid3b"], Input.for_date("03/28/17").map{|o| o._id}
+      assert_equal ["testingid4"], Input.for_date("07/06/17").map{|o| o._id}
+      assert_equal ["testingid4b"], Input.for_date("07/07/17").map{|o| o._id}
     end
 
   end

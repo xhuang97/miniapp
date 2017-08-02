@@ -31,7 +31,7 @@
   <tbody>
     <% @available_dates.each do |date| %>
       <tr>
-        <td><%= date %></td>
+        <td><%= link_to "#{date}", input_course_path(@course, date_param: date) %></td>
       </tr>
     <% end %>
   </tbody>

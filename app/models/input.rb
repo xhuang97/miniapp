@@ -8,8 +8,8 @@ class Input < ActiveRecord::Base
 
   # scope :for_color,    ->(color) { where("color like ?", "%#{color.downcase}%") }
   scope :for_sessionDesc,      ->(session) { where("sessionDesc LIKE ?", "%#{session}%") }
-  scope :for_course,  ->(course) { where("#{get_full_dateTime} LIKE ?", "%#{course}%")}
-  scope :for_season,  ->(season) { where(get_season == season)}
+  # scope :for_course,  ->(course) { where("#{get_full_dateTime} LIKE ?", "%#{course}%")}
+  # scope :for_season,  ->(season) { where(get_season == season)}
 
   # validations
   validates :_id, presence: true
@@ -19,6 +19,20 @@ class Input < ActiveRecord::Base
   #   @datetime = self.dateTime
   #   @date = @datetime.strftime("%m/%d/%Y")
   # end
+
+  def self.for_course(course)
+    # puts course
+    Input.all.select {|o| o.get_day_time == course }
+  end
+
+  def self.for_season(season)
+    Input.all.select {|o| o.get_season == season}
+  end
+
+  def self.for_date(date)
+    puts date
+    Input.all.select {|o| o.get_full_dateTime.to_s.include? date}
+  end
 
   def get_season
     dateTime = self.dateTime.to_i # convert to int
@@ -33,7 +47,7 @@ class Input < ActiveRecord::Base
     end
   end
 
-  def get_full_dateTime
+  def get_day_time
     dateTime = self.dateTime.to_i # convert to int
     dateTime = Time.at(dateTime/1000) # convert to date
     hour = dateTime.strftime('%H%M').to_i
@@ -49,11 +63,16 @@ class Input < ActiveRecord::Base
     return course
   end
 
+  def get_full_dateTime
+    dateTime = self.dateTime.to_i # convert to int
+    dateTime = Time.at(dateTime/1000) # convert to date
+    dateTime = dateTime.strftime('%m/%d/%y %H:%M:%S')
+  end
+
   def get_date
     dateTime = self.dateTime.to_i # convert to int
     dateTime = Time.at(dateTime/1000) # convert to date
-    # self.dateTime = dateTime_d.strftime('%Y-%m-%d %H:%M:%S.%L %z')
-    dateTime = dateTime.strftime('_%A_%m/%d/%y')
+    dateTime = dateTime.strftime('%m/%d/%y %A')
   end
 
 

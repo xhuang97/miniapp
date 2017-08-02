@@ -1,5 +1,6 @@
 class InputsController < ApplicationController
   before_action :set_input, only: [:show, :edit, :update, :destroy]
+  # before_action :set_course, only: :course
 
   # GET /inputs
   # GET /inputs.json
@@ -8,6 +9,9 @@ class InputsController < ApplicationController
     @courses = Course.all
   end
 
+  # def course
+  #   @inputs_for_course = @course.get_inputs
+  # end
   # GET /inputs/1
   # GET /inputs/1.json
   def show
@@ -67,6 +71,10 @@ class InputsController < ApplicationController
     def set_input
       @input = Input.find(params[:_id])
     end
+
+    # def set_course
+    #   @course = Course.find(params[:id])
+    # end
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def input_params

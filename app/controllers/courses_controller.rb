@@ -1,5 +1,5 @@
 class CoursesController < ApplicationController
-  before_action :set_course, only: [:show, :edit, :update, :destroy]
+  before_action :set_course, only: [:show, :edit, :update, :destroy, :input]
 
   # GET /courses
   # GET /courses.json
@@ -12,6 +12,12 @@ class CoursesController < ApplicationController
   def show
     # puts @course.session
     # puts @inputs_for_course.map{|o| o.sessionDesc}.uniq
+  end
+
+  def input
+    # @inputs_for_course = @course.get_inputs
+    @date = params[:date_param]
+    @inputs_for_course_on_date = @course.get_inputs_on_date(@date)
   end
 
   # GET /courses/new
@@ -67,9 +73,10 @@ class CoursesController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_course
       @course = Course.find(params[:id])
-      # @inputs_for_course = @course.get_inputs
+      @inputs_for_course = @course.get_inputs
       @available_dates = @course.get_input_dates
     end
+
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def course_params
