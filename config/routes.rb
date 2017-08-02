@@ -10,7 +10,7 @@ Rails.application.routes.draw do
 
 
   # customize routes
-  # get 'home' => 'home#home'
+
   get 'inputs/course/:id' => 'inputs#course'
 # get 'photos/:user_id/:photo_id' => 'photos#show', :as => 'user_photo'
   # set root

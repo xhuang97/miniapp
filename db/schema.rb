@@ -13,6 +13,9 @@
 
 ActiveRecord::Schema.define(version: 20170731170456) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "courses", force: true do |t|
     t.string   "ta_name"
     t.integer  "course_num"
@@ -35,6 +38,6 @@ ActiveRecord::Schema.define(version: 20170731170456) do
     t.datetime "updated_at"
   end
 
-  add_index "inputs", ["_id"], name: "index_inputs_on__id", unique: true
+  add_index "inputs", ["_id"], name: "index_inputs_on__id", unique: true, using: :btree
 
 end

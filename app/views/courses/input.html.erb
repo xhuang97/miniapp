@@ -1,4 +1,29 @@
-<h1>Listing inputs</h1>
+<p id="notice"><%= notice %></p>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Ta name</th>
+      <th>Course num</th>
+      <th>days_of_week</th>
+      <th>time_of_day</th>
+      <th>semester</th>
+      <!-- <th colspan="3"></th> -->
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><%= @course.ta_name %></td>
+      <td><%= @course.course_num %></td>
+      <td><%= @course.days_of_week %></td>
+      <td><%= @course.time_of_day %></td>
+      <td><%= @course.semester %></td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>Course Inputs</h4>
 
 <table class="table">
   <thead>
@@ -11,7 +36,7 @@
       <th>Sessiondesc</th>
       <!-- <th>Sessioncond</th> -->
       <!-- <th>Isundo</th> -->
-      <th colspan="3"></th>
+      <!-- <th colspan="3"></th> -->
     </tr>
   </thead>
 

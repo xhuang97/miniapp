@@ -1,6 +1,7 @@
 require 'csv'
 
 namespace :import_incidents_csv do
+  desc "Import csv files to database"
   task :create_incidents => :environment do
     csvs = Dir[File.join(Rails.root, 'app', 'csvs', '*.csv')]
     csvs.each do |csv|
