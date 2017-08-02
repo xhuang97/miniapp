@@ -8,7 +8,8 @@ class Input < ActiveRecord::Base
 
   # scope :for_color,    ->(color) { where("color like ?", "%#{color.downcase}%") }
   scope :for_sessionDesc,      ->(session) { where("sessionDesc LIKE ?", "%#{session}%") }
-
+  scope :for_course,  ->(course) { where("#{get_full_dateTime} LIKE ?", "%#{course}%")}
+  scope :for_season,  ->(season) { where(get_season == season)}
 
   # validations
   validates :_id, presence: true
@@ -19,11 +20,40 @@ class Input < ActiveRecord::Base
   #   @date = @datetime.strftime("%m/%d/%Y")
   # end
 
+  def get_season
+    dateTime = self.dateTime.to_i # convert to int
+    d = Time.at(dateTime/1000) # convert to date
+    # Not sure if there's a neater expression. yday is out due to leap years
+    day_hash = d.month * 100 + d.mday
+    case day_hash
+    when 101..301 then :winter
+    when 302..530 then :spring
+    when 601..830 then :summer
+    when 901..1231 then :fall
+    end
+  end
+
+  def get_full_dateTime
+    dateTime = self.dateTime.to_i # convert to int
+    dateTime = Time.at(dateTime/1000) # convert to date
+    hour = dateTime.strftime('%H%M').to_i
+    ahour = hour.to_s
+    case hour
+    when 900..1025 then ahour = "0900"
+    when 1030..1155 then ahour = "1030"
+    when 1230..1355 then ahour = "1230"
+    when 1630..1755 then ahour = "1630"
+    end
+    weekday = dateTime.strftime('%A_').to_s
+    course = weekday + ahour[0,2] + ":" + ahour[2,3] #Tuesday_10:30
+    return course
+  end
+
   def get_date
     dateTime = self.dateTime.to_i # convert to int
-    dateTime_d = Time.at(dateTime/1000) # convert to date
+    dateTime = Time.at(dateTime/1000) # convert to date
     # self.dateTime = dateTime_d.strftime('%Y-%m-%d %H:%M:%S.%L %z')
-    self.dateTime = dateTime_d.strftime('_%A_%m/%d/%y')
+    dateTime = dateTime.strftime('_%A_%m/%d/%y')
   end
 
 

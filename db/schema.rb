@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 20170731170456) do
     t.integer  "course_num"
     t.string   "days_of_week"
     t.string   "time_of_day"
+    t.string   "semester"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

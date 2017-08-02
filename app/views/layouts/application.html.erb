@@ -26,7 +26,7 @@
             <tbody>
               <% @courses.each do |course| %>
                 <tr>
-                  <td><%= link_to "#{course.course_num}", course, class: 'btn btn-info btn-xs' %></td>
+                  <td><%= link_to "#{course.ta_name}", course, class: 'btn btn-info btn-xs' %></td>
                 </tr>
               <% end %>
             </tbody>

@@ -1,7 +1,7 @@
 class Course < ActiveRecord::Base
 
   WEEKDAYS = [['M', 'Monday'], ['T', 'Tuesday'], ['W', 'Wednesday'], ['TH', 'Thursday'], ['F', 'Friday']]
-
+  hashsemester = {'spring' => :spring, 'summer' => :summer, 'fall' => :fall, 'winter' => :winter}
 
   # def session
   #
@@ -25,14 +25,15 @@ class Course < ActiveRecord::Base
   def get_inputs
     # @session = session
     # puts @session
-    time = "_" + time_of_day[0,2] + ":" + time_of_day[2,3] + "_"
+    time = "_" + time_of_day[0,2] + ":" + time_of_day[2,3] #16:30
     days = get_weekdays
+    sem = hashsemester[semester]
     # date = "3/28/17"
     inputs ||= []
     days.each do |day|
-      session = day + time
+      course = day + time
       puts session
-      inputs += Input.for_sessionDesc(session)
+      inputs += (Input.for_course(course) & Input.for_season(sem))
     end
     return inputs
   end
