@@ -29,11 +29,12 @@
   <thead>
     <tr>
       <!-- <th>_id</th> -->
+      <th>Session</th>
       <th>Full Date</th>
       <!-- <th>DateTime</th> -->
       <th>Type</th>
       <!-- <th>Sessionid</th> -->
-      <th>Sessiondesc</th>
+      <!-- <th>Sessiondesc</th> -->
       <!-- <th>Sessioncond</th> -->
       <!-- <th>Isundo</th> -->
       <!-- <th colspan="3"></th> -->
@@ -44,11 +45,12 @@
     <% @inputs_for_course_on_date.each do |input| %>
       <tr>
         <!-- <td><%= input._id %></td> -->
+        <td><%= input.get_session %></td>
         <td><%= input.get_full_dateTime %></td>
         <!-- <td><%= input.dateTime %></td> -->
         <td><%= input.type %></td>
         <!-- <td><%= input.sessionId %></td> -->
-        <td><%= input.sessionDesc %></td>
+        <!-- <td><%= input.sessionDesc %></td> -->
         <!-- <td><%= input.sessionCond %></td> -->
         <!-- <td><%= input.isUndo %></td> -->
         <!-- <td><%= link_to 'Show', input, class: 'btn btn-primary btn-xs' %></td>

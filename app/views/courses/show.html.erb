@@ -33,7 +33,7 @@
   <tbody>
     <% @available_dates.each do |date| %>
       <tr>
-        <td><%= link_to "#{date}", input_course_path(@course, date_param: date) %></td>
+        <td><%= link_to "#{date}", action_course_path(@course, date_param: date) %></td>
       </tr>
     <% end %>
   </tbody>
@@ -41,7 +41,5 @@
 
 
 <br>
-
-
 <%= link_to 'Edit', edit_course_path(@course) %> |
 <%= link_to 'Back', courses_path %>

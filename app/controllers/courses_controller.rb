@@ -1,8 +1,9 @@
 class CoursesController < ApplicationController
-  before_action :set_course, only: [:show, :edit, :update, :destroy, :input]
+  before_action :set_course, only: [:show, :edit, :update, :destroy, :input, :action]
 
   # GET /courses
   # GET /courses.json
+
   def index
     @courses = Course.all
   end
@@ -18,6 +19,11 @@ class CoursesController < ApplicationController
     # @inputs_for_course = @course.get_inputs
     @date = params[:date_param]
     @inputs_for_course_on_date = @course.get_inputs_on_date(@date)
+  end
+
+  def action
+    @date = params[:date_param]
+    @actions = @course.get_inputs_on_date(@date).map{|o| o.type}.uniq
   end
 
   # GET /courses/new

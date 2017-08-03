@@ -45,7 +45,7 @@ class Course < ActiveRecord::Base
   def get_inputs_on_date(date)
     # @inputs_for_course = self.get_inputs
     date = date[0,8]
-    @inputs_for_date = Input.for_csd(@@courses, @@sem, date)
+    @inputs_for_date = Input.for_csd(@@courses, @@sem, date, course_num.to_s)
     # @inputs_for_course_on_date = @inputs_for_course & @inputs_for_date
   end
 
