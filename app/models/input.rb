@@ -20,18 +20,18 @@ class Input < ActiveRecord::Base
   #   @date = @datetime.strftime("%m/%d/%Y")
   # end
 
-  def self.for_course(course)
+  def self.for_course_season(courses, season)
     # puts course
-    Input.all.select {|o| o.get_day_time == course }
+    Input.all.select {|o| (courses.include? o.get_day_time) && o.get_season == season}
   end
 
-  def self.for_season(season)
-    Input.all.select {|o| o.get_season == season}
-  end
+  # def self.for_season(season)
+  #   Input.all.select {|o| }
+  # end
 
-  def self.for_date(date)
-    puts date
-    Input.all.select {|o| o.get_full_dateTime.to_s.include? date}
+  def self.for_csd(courses, season, date)
+    # puts date
+    Input.all.select {|o| (o.get_full_dateTime.to_s.include? date) && (courses.include? o.get_day_time) && (o.get_season == season)}
   end
 
   def get_season

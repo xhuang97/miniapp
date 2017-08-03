@@ -27,13 +27,13 @@ class Course < ActiveRecord::Base
     # puts @session
     time = "_" + time_of_day[0,2] + ":" + time_of_day[2,3] #16:30
     days = get_weekdays
-    sem = SEMESTER[semester]
+    @@sem = SEMESTER[semester]
     # date = "3/28/17"
-    inputs ||= []
+    @@courses ||= []
     days.each do |day|
-      course = day + time
-      inputs += (Input.for_course(course) & Input.for_season(sem))
+      @@courses << day + time
     end
+    inputs = (Input.for_course_season(@@courses,@@sem))
     return inputs
   end
 
@@ -43,10 +43,10 @@ class Course < ActiveRecord::Base
   end
 
   def get_inputs_on_date(date)
-    @inputs_for_course = self.get_inputs
+    # @inputs_for_course = self.get_inputs
     date = date[0,8]
-    @inputs_for_date = Input.for_date(date)
-    @inputs_for_course_on_date = @inputs_for_course & @inputs_for_date
+    @inputs_for_date = Input.for_csd(@@courses, @@sem, date)
+    # @inputs_for_course_on_date = @inputs_for_course & @inputs_for_date
   end
 
 end
