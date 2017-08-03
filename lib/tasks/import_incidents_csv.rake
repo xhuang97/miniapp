@@ -1,4 +1,6 @@
 require 'csv'
+require 'active_record'
+require 'activerecord-import'
 
 namespace :import_incidents_csv do
   desc "Import csv files to database"
