@@ -6,7 +6,7 @@ Page 1: List of TA’s and their names, each with hyperlink to page 2
 
 Page 2: List of dates of classes taught by the TA, each with hyperlink to page 3
 
-Page 3: Raw human-encoded data of that class
+Page 3: Actions and link to raw human-encoded data of that class
 
 
 #### Wireframes
